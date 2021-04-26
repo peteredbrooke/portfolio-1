@@ -1,0 +1,28 @@
+.skillsContainer {
+    width: 100vw;
+    height: 300px;
+    padding: 50px;
+    background-color: inherit;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    margin-top: 80px;
+
+    .skillsBox {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-right: 2px solid white;
+        font-size: 100px;
+        line-height: 2;
+
+        img {
+            height: 110px;
+            width: 110px;
+        }
+    }
+}
+
+a {
+    text-decoration: none;
+}

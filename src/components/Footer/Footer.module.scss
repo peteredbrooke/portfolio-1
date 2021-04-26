@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    width: 100vw;
+    height: 200px;
+    background-image: radial-gradient(circle,
+            #f6c9f5 0%,
+            #d0e7ff 50%,
+            #cac9ff 100%);
+
+
+    .footerList {
+        display: flex;
+        flex-direction: row;
+        list-style: none;
+        align-items: center;
+        justify-content: space-around;
+        padding: 10px;
+    }
+}
