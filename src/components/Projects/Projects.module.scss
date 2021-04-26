@@ -22,14 +22,23 @@
         left: 5%;
         color: black;
 
-        a {
-            color: black;
-        }
+
 
         // transform: rotate(95deg);
     }
 }
 
+a {
+    text-decoration: none;
+    color: black;
+
+
+    a:visited {
+        text-decoration: none;
+        color: black;
+
+    }
+}
 
 
 
