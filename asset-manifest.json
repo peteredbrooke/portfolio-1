@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-1/static/css/main.a89abf85.chunk.css",
+    "main.js": "/portfolio-1/static/js/main.4cd1406c.chunk.js",
+    "main.js.map": "/portfolio-1/static/js/main.4cd1406c.chunk.js.map",
+    "runtime-main.js": "/portfolio-1/static/js/runtime-main.1ea8706e.js",
+    "runtime-main.js.map": "/portfolio-1/static/js/runtime-main.1ea8706e.js.map",
+    "static/js/2.e507f5de.chunk.js": "/portfolio-1/static/js/2.e507f5de.chunk.js",
+    "static/js/2.e507f5de.chunk.js.map": "/portfolio-1/static/js/2.e507f5de.chunk.js.map",
+    "static/js/3.5b931ee0.chunk.js": "/portfolio-1/static/js/3.5b931ee0.chunk.js",
+    "static/js/3.5b931ee0.chunk.js.map": "/portfolio-1/static/js/3.5b931ee0.chunk.js.map",
+    "index.html": "/portfolio-1/index.html",
+    "static/css/main.a89abf85.chunk.css.map": "/portfolio-1/static/css/main.a89abf85.chunk.css.map",
+    "static/js/2.e507f5de.chunk.js.LICENSE.txt": "/portfolio-1/static/js/2.e507f5de.chunk.js.LICENSE.txt",
+    "static/media/brewdog.1011d6f2.mp4": "/portfolio-1/static/media/brewdog.1011d6f2.mp4",
+    "static/media/calculator.c3fb8162.mp4": "/portfolio-1/static/media/calculator.c3fb8162.mp4",
+    "static/media/game.17267335.mp4": "/portfolio-1/static/media/game.17267335.mp4",
+    "static/media/planet.c9d96bbe.png": "/portfolio-1/static/media/planet.c9d96bbe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ea8706e.js",
+    "static/js/2.e507f5de.chunk.js",
+    "static/css/main.a89abf85.chunk.css",
+    "static/js/main.4cd1406c.chunk.js"
+  ]
+}
