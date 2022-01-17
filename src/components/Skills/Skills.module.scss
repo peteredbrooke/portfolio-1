@@ -2,14 +2,15 @@
     width: 100vw;
     height: 300px;
     padding: 50px;
-    background-color: inherit;
+    // background-color: inherit;
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
     margin-top: 80px;
+    // display: flex;
 
     .skillsBox {
-        display: flex;
-        flex-direction: column;
+        // display: flex;
+        // flex-direction: column;
         justify-content: center;
         align-items: center;
         border-right: 2px solid white;
@@ -25,4 +26,21 @@
 
 a {
     text-decoration: none;
+}
+
+@media screen and (max-width: 960px) {
+    .skillsContainer {
+        grid-template-columns: auto;
+
+        .skillsBox {
+            display: grid;
+            font-size: 80px;
+            grid-template-columns: auto;
+            padding: 10px;
+            // width: 100vw;
+            // height: 100vh;
+
+        }
+    }
+
 }

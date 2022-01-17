@@ -82,7 +82,7 @@ const Projects = () => {
                 <div className={styles.projectsCard}>
                     <a href="https://peteredbrooke.github.io/morse-translator/">
                         <h1 className={styles.cardTitle}>JS Morse Translator</h1>
-                        <p className={styles.description}></p>
+                        <p className={styles.description}>A very basic and rudamentary english to morse code translator, one of the first projects I did. </p>
 
                     </a>
                     
@@ -96,10 +96,9 @@ const Projects = () => {
                     </a>
                     
                 </div>
-                <div className={styles.projectsCard}>
-                    <h1 className={styles.cardTitle}>Album Collection</h1>
-                    <p className={styles.description}></p>
-                </div>
+                {/* <div className={styles.projectsCard}>
+                    
+                </div> */}
             </div>
             
         </div>

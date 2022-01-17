@@ -33,3 +33,11 @@
         line-height: 2;
     }
 }
+
+@media screen and (max-width:960px) {
+    .aboutMain {
+        height: auto;
+        width: auto;
+    }
+
+}
