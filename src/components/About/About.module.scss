@@ -13,9 +13,9 @@
         align-items: center;
         height: 80%;
         width: 60%;
-        border-right: 5px solid #cac9ff;
-        border-left: 5px solid #cac9ff;
-        border-radius: 30px;
+        // border-right: 5px solid #cac9ff;
+        // border-left: 5px solid #cac9ff;
+        // border-radius: 30px;
         padding: 30px;
 
         h1 {
@@ -26,7 +26,7 @@
     .descriptionContainer {
         align-items: center;
         justify-content: center;
-        width: 50%;
+        width: 70%;
         border-right: 2px solid white;
         letter-spacing: 2px;
         padding: 50px 20px 0px 0px;
@@ -35,9 +35,19 @@
 }
 
 @media screen and (max-width:960px) {
-    .aboutMain {
-        height: auto;
-        width: auto;
+    .aboutContainer {
+        .aboutMain {
+            padding-top: 300px;
+
+        }
+
+        .descriptionContainer {
+            width: 90%;
+            padding-bottom: 30px;
+        }
+
+
+
     }
 
 }

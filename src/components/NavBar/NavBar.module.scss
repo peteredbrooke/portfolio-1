@@ -120,11 +120,7 @@ body {
     }
 
     .navMenuActive {
-        background-image: radial-gradient(circle,
-                #f6c9f5 0%,
-                #d0e7ff 50%,
-                #cac9ff 100%);
-        // background: #242222;
+        background-image: linear-gradient(219.3deg, rgba(149, 0, 199, 1) 4.7%, rgba(130, 0, 226, 1) 22.9%, rgba(95, 0, 199, 1) 43.2%, rgba(70, 0, 199, 1) 63.9%, rgba(5, 0, 199, 1) 85.1%, rgba(0, 95, 199, 1) 106.8%);
 
         left: 0;
         opacity: 1;

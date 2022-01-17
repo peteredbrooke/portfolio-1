@@ -76,9 +76,9 @@ const Home = () => {
             <section id="skills">
                 <Skills />
             </section>
-            {/* <section id="about">
+            <section id="about">
                 <About />
-            </section> */}
+            </section>
             {/* <section id="contact">
                 <Contact />
             </section> */}

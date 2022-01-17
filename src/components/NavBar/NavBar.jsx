@@ -64,9 +64,9 @@ const NavBar = (props) => {
                     <li className={styles.navItem}>
                         <a href="#about" className={styles.navLinks} to="/about" onClick={closeMobileMenu}>About</a>
                     </li>
-                    <li className={styles.navItem}>
+                    {/* <li className={styles.navItem}>
                         <a href="#contact" className={styles.navLinks} to="/contact" onClick={closeMobileMenu}>Contact Me</a>
-                    </li>
+                    </li> */}
                 </ul>
                 
                 {/* {button && <Button buttonStyle="btn--outline">Contact Me

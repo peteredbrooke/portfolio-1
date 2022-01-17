@@ -31,6 +31,8 @@ a {
 @media screen and (max-width: 960px) {
     .skillsContainer {
         grid-template-columns: auto;
+        display: block;
+        height: 100vh;
 
         .skillsBox {
             display: grid;
